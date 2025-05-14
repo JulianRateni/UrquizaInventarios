@@ -7,7 +7,7 @@
             display: flex;
             justify-content:space-evenly;
             align-items: center;
-            height: 50px;
+            height: 66px;
             stroke: black;
             stroke-width: 3px;
             font-weight: bolder;
@@ -15,6 +15,16 @@
             font-family: Arial, Helvetica, sans-serif;
         }
 
+        .producto input{
+            width: 38px;
+            text-align: center;
+        }
+        
+        .stockText{
+            margin: 0px;
+            font-size: smaller;
+
+        }
 
         .modifier{
             height: 38px;
