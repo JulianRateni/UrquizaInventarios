@@ -15,3 +15,5 @@ function WriteDB(obj,db="inventario.json"){
         return console.error(error)
     }
 }
+
+module.exports = { ReadDB, WriteDB }
