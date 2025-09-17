@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "nombre": "Pepas_Terepin",
+        "precio": 1250,
+        "Stock": 66
+    },
+    {
+        "nombre": "Pepas_Manolo",
+        "precio": 1000,
+        "Stock": 30
+    },
+    {
+        "nombre": "Manteca_Juan",
+        "precio": 800,
+        "Stock": 30
+    }
+]
